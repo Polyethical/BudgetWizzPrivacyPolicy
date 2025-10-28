@@ -1,7 +1,6 @@
 # BudgetWizzPrivacyPolicy
-Privacy for BudgetWizz app
+Privacy Policy for BudgetWizz app
 
-Privacy policy for Blink Communicate App
 
 Privacy Policy
 
